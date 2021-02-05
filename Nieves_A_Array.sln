@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nieves_A_Array", "Nieves_A_Array.csproj", "{675A69E3-19C4-4545-B98E-331A4807FF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675A69E3-19C4-4545-B98E-331A4807FF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675A69E3-19C4-4545-B98E-331A4807FF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675A69E3-19C4-4545-B98E-331A4807FF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675A69E3-19C4-4545-B98E-331A4807FF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7009A194-E87F-4013-8FE7-908BCB8FC282}
+	EndGlobalSection
+EndGlobal
